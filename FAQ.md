@@ -2,6 +2,7 @@
 
 - [R plugin in Pycharm](#r-plugin-in-pycharm)
   - [argument encoding="UTF-8" is ignored in MBCS locales](#argument-encodingutf-8-is-ignored-in-mbcs-locales)
+  - [how to automatically add binder files](#how-to-automatically-add-binder-files)
 
 ## R plugin in Pycharm
 ### argument encoding="UTF-8" is ignored in MBCS locales
