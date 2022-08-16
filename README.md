@@ -1,4 +1,7 @@
 # Statistic Analysis in R
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yingwang-git/R_StatisticAnalysis/HEAD?urlpath=lab)
+
+**Click above button to interact with this project in binder. It may take a long time to load.**
 
 
 ## Introduction to Basic Models
