@@ -1,0 +1,20 @@
+install.packages(
+  "car",
+  "doBy",
+  "dplyr",
+  "ggplot2",
+  "Hmisc",
+  "interactions",
+  "knitr",
+  "lmtest",
+  "MatchIt",
+  "mediation",
+  "openxlsx",
+  "pacman",
+  "PerformanceAnalytics",
+  "plm",
+  "psych",
+  "readxl",
+  "rmarkdown",
+  "tableone"
+)
