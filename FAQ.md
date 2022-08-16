@@ -6,8 +6,8 @@
 ## R plugin in Pycharm
 ### argument encoding="UTF-8" is ignored in MBCS locales
 
-> **原因**：编码不支持。  
+> **Why**: The encoding is not supported.  
 > 
-> **解决**：`Sys.setlocale(category = 'LC_CTYPE', locale = 'C')`  
+> **How**: Run `Sys.setlocale(category = 'LC_CTYPE', locale = 'C')` in the R Console.  
 > 
-> **问题**：无法永久解决，需要每次都在 R Console 中输入
+> **Further Question**: It is not permanent. You need to run the above code in the R console when restarting Pycharm.  
