@@ -14,7 +14,7 @@
 
 
 ## Personal Notes
-
+1. [Some productivity tips in R](0_ProductivityTips.ipynb)
 
 ## Frequently Asked Questions
 
