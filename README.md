@@ -7,7 +7,7 @@
 ## Introduction to Basic Models
 
 1. [Linear Regression](1_LinearRegression.ipynb)
-2. Logistic Regression
+2. [Logistic Regression](2_LogisticRegression.ipynb)
 
 
 ## Data Analysis Projects
