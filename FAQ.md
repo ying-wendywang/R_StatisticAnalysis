@@ -6,6 +6,7 @@
 
 - [R usages](#r-usages)
   - [how to list available datasets in R?](#how-to-list-available-datasets-in-r)
+  - [How to assign a new name when import a built-in dataset?](#how-to-assign-a-new-name-when-import-a-built-in-dataset)
 
 ## R plugin in Pycharm
 ### Warning: argument encoding="UTF-8" is ignored in MBCS locales
